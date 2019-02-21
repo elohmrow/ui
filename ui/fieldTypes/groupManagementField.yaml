@@ -1,0 +1,2 @@
+definitionClass: org.ui.field.GroupManagementFieldDefinition
+factoryClass: org.ui.field.GroupManagementFieldFactory

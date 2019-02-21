@@ -67,6 +67,14 @@ form:
           rightColumnCaption: Users To Send This Document To
           leftColumnCaption: Available Users
           name: users
+        - name: groups
+          fieldType: groupManagementField
+          type: String
+          label: Groups
+          repository: usergroups
+          rightColumnCaption: Groups To Send This Document To
+          leftColumnCaption: Available Groups
+          name: groups
 actions:
   commit:
     #class: info.magnolia.ui.admincentral.dialog.action.SaveDialogActionDefinition
