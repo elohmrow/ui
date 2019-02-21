@@ -1,0 +1,21 @@
+title: Two Columns
+renderType: freemarker
+dialog: ui:components/twoColumns
+templateScript: /ui/templates/components/twoColumns.ftl
+
+areas:
+  leftColumn:
+    type: list
+    availableComponents:
+      textImage:
+        id: mtk:components/textImage
+      twoColumns:
+        id: ui:components/twoColumns
+   
+  rightColumn:
+    type: list
+    availableComponents:
+      textImage:
+        id: mtk:components/textImage
+      twoColumns:
+        id: ui:components/twoColumns

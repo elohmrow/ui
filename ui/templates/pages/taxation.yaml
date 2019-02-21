@@ -9,3 +9,7 @@ areas:
     availableComponents:
       test:
         id: ui:components/test
+      mtkTextImage:
+        id: mtk:components/textImage
+      twoColumns:
+        id: ui:components/twoColumns
