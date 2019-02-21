@@ -2,16 +2,16 @@ form:
   label: Page properties
   tabs:
     - name: tabMain
-      label: Taxation
+      label: Business Knowledge News
       fields:
         - name: title
           class: info.magnolia.ui.form.field.definition.TextFieldDefinition
           i18n: true
-          label: title
+          label: Title
         - name: windowTitle
           class: info.magnolia.ui.form.field.definition.TextFieldDefinition
           i18n: true
-          label: window title
+          label: Window Title
         - name: startDate
           time: true
           timeFormat: h:mm a
@@ -29,7 +29,7 @@ form:
           defaultValue: true
           i18n: false
           type: Boolean
-          label:  Important?
+          label: High Importance
           buttonLabel: ''
     - name: tabMeta
       label: Meta Data
@@ -37,12 +37,12 @@ form:
         - name: keywords
           class: info.magnolia.ui.form.field.definition.TextFieldDefinition
           i18n: true
-          label: keywords
+          label: Keywords
           rows: 3
         - name: description
           class: info.magnolia.ui.form.field.definition.TextFieldDefinition
           i18n: true
-          label: description
+          label: Description
           rows: 5
     - name: tabTags
       label: Tags
@@ -57,7 +57,7 @@ form:
           leftColumnCaption: Available Tags
           name: tags
     - name: tabUsers
-      label: Users
+      label: Recommend To
       fields:
         - name: users
           fieldType: userManagementField

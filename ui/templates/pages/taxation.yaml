@@ -1,4 +1,4 @@
-title: taxation
+title: Business Knowledge News
 templateScript: /ui/templates/pages/taxation.ftl
 renderType: freemarker
 dialog: ui:pages/taxation

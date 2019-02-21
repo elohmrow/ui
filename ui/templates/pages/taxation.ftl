@@ -28,7 +28,6 @@
   <body class="taxation ${cmsfn.language()}">
 
     <div class="container">
-      <h1>taxation works!</h1>
     </div>
 
     [#-- use resfn to load all js which matches the globbing pattern or link resources manually or via theme --]
