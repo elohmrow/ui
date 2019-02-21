@@ -1,0 +1,11 @@
+title: taxation
+templateScript: /ui/templates/pages/taxation.ftl
+renderType: freemarker
+dialog: ui:pages/taxation
+visible: true
+
+areas:
+  main:
+    availableComponents:
+      test:
+        id: ui:components/test

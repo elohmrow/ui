@@ -1,0 +1,75 @@
+form:
+  label: Page properties
+  tabs:
+    - name: tabMain
+      label: Taxation
+      fields:
+        - name: title
+          class: info.magnolia.ui.form.field.definition.TextFieldDefinition
+          i18n: true
+          label: title
+        - name: windowTitle
+          class: info.magnolia.ui.form.field.definition.TextFieldDefinition
+          i18n: true
+          label: window title
+        - name: startDate
+          time: true
+          timeFormat: h:mm a
+          dateFormat: EEE, MMM d, yyyy
+          fieldType: date
+          label: Active Date
+        - name: endDate
+          time: true
+          timeFormat: h:mm a
+          dateFormat: EEE, MMM d, yyyy
+          fieldType: date
+          label: Archive Date
+        - name: important
+          class: info.magnolia.ui.form.field.definition.CheckboxFieldDefinition
+          defaultValue: true
+          i18n: false
+          type: Boolean
+          label:  Important?
+          buttonLabel: ''
+    - name: tabMeta
+      label: Meta Data
+      fields:
+        - name: keywords
+          class: info.magnolia.ui.form.field.definition.TextFieldDefinition
+          i18n: true
+          label: keywords
+          rows: 3
+        - name: description
+          class: info.magnolia.ui.form.field.definition.TextFieldDefinition
+          i18n: true
+          label: description
+          rows: 5
+    - name: tabTags
+      label: Tags
+      fields:
+        - name: tags
+          fieldType: tagManagementField
+          #class: org.ui.field.TagManagementFieldFactory
+          type: String
+          label: Tags
+          repository: tags
+          rightColumnCaption: Tag This Document As
+          leftColumnCaption: Available Tags
+          name: tags
+    - name: tabUsers
+      label: Users
+      fields:
+        - name: users
+          fieldType: userManagementField
+          type: String
+          label: Users
+          repository: users
+          rightColumnCaption: Users To Send This Document To
+          leftColumnCaption: Available Users
+          name: users
+actions:
+  commit:
+    #class: info.magnolia.ui.admincentral.dialog.action.SaveDialogActionDefinition
+    class: org.ui.action.UISaveDialogActionDefinition 
+  cancel:
+    class: info.magnolia.ui.admincentral.dialog.action.CancelDialogActionDefinition

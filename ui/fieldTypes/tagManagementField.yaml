@@ -1,0 +1,2 @@
+definitionClass: org.ui.field.TagManagementFieldDefinition
+factoryClass: org.ui.field.TagManagementFieldFactory

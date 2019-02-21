@@ -1,0 +1,4 @@
+title: test
+renderType: freemarker
+templateScript: /ui/templates/components/test.ftl
+dialog: ui:components/test

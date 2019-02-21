@@ -1,0 +1,2 @@
+definitionClass: org.ui.field.UserManagementFieldDefinition
+factoryClass: org.ui.field.UserManagementFieldFactory
