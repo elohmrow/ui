@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" sv:name="Internal-Events">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>moderator</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>9b67ab95-c6b3-4e78-84ab-de695a4505ae</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcrComments" sv:type="String">
+    <sv:value>4</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcrInterations" sv:type="String">
+    <sv:value>25%</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcrLikes" sv:type="String">
+    <sv:value>2</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcrViews" sv:type="String">
+    <sv:value>44</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+    <sv:value>false</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2019-02-24T10:34:12.883+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+    <sv:value>2019-02-24T10:34:12.883+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2019-02-24T13:31:36.889+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+</sv:node>
+

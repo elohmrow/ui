@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" sv:name="UI-Poland">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:page</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>049fa518-ba0a-4023-8536-510a6314957d</sv:value>
+  </sv:property>
+  <sv:property sv:name="hideInNav" sv:type="Boolean">
+    <sv:value>false</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+    <sv:value>false</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+    <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2019-02-24T07:20:28.266+01:00</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:template" sv:type="String">
+    <sv:value>travel-demo:pages/standard</sv:value>
+  </sv:property>
+  <sv:property sv:name="title" sv:type="String">
+    <sv:value>UI Poland</sv:value>
+  </sv:property>
+  <sv:property sv:name="title_de" sv:type="String">
+    <sv:value>Woran wir glauben</sv:value>
+  </sv:property>
+  <sv:node sv:name="main">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>5854595c-5697-49b1-8b36-f72bd41c6b32</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+      <sv:value>false</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+      <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="00">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>0a5cd1dc-8e5a-40f3-b081-8a8731fddec6</sv:value>
+      </sv:property>
+      <sv:property sv:name="headline" sv:type="String">
+        <sv:value>What we believe</sv:value>
+      </sv:property>
+      <sv:property sv:name="headlineLevel" sv:type="String">
+        <sv:value>small</sv:value>
+      </sv:property>
+      <sv:property sv:name="headline_de" sv:type="String">
+        <sv:value>Woran wir glauben</sv:value>
+      </sv:property>
+      <sv:property sv:name="imagePosition" sv:type="String">
+        <sv:value>below</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>travel-demo:components/jumbotron</sv:value>
+      </sv:property>
+      <sv:property sv:name="text" sv:type="String">
+        <sv:value>&lt;p&gt;The core values that guide our company, and ensure you have a wonderful tour.&lt;/p&gt; </sv:value>
+      </sv:property>
+      <sv:property sv:name="text_de" sv:type="String">
+        <sv:value>&lt;p&gt;Unsere zentralen Werte, von denen alle T&amp;auml;tigkeiten unseres Unternehmens bestimmt sind, und durch die wundervolle Rundreisen garantiert werden.&lt;/p&gt; </sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="0">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>78284df8-860f-4a36-bef7-d08cc4d02d90</sv:value>
+      </sv:property>
+      <sv:property sv:name="headline" sv:type="String">
+        <sv:value>Our customers are at the heart of our business.  </sv:value>
+      </sv:property>
+      <sv:property sv:name="headlineLevel" sv:type="String">
+        <sv:value>medium</sv:value>
+      </sv:property>
+      <sv:property sv:name="headline_de" sv:type="String">
+        <sv:value>Unsere Kunden stehen im Mittelpunkt unseres Unternehmens. </sv:value>
+      </sv:property>
+      <sv:property sv:name="imagePosition" sv:type="String">
+        <sv:value>below</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>travel-demo:components/textImage</sv:value>
+      </sv:property>
+      <sv:property sv:name="text" sv:type="String">
+        <sv:value>&lt;p&gt;Magnolia Travels was created to provide people with unforgettable experiences rather than just holidays. We don&amp;rsquo;t sell package tours in busy resorts, and we don&amp;rsquo;t believe in selling the same holiday to everyone.&lt;/p&gt; </sv:value>
+      </sv:property>
+      <sv:property sv:name="text_de" sv:type="String">
+        <sv:value>&lt;p&gt;Magnolia Travels wurde gegr&amp;uuml;ndet, um den Menschen unvergessliche Erlebnisse anstatt eines einfachen Urlaubs zu erm&amp;ouml;glichen. Wir bieten keine Pauschalreisen in &amp;uuml;berlaufenen Resorts an und wir halten nichts davon, jedem dieselben Ferien zu verkaufen.&lt;/p&gt; </sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="01">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>72e4d382-144e-4d53-90a7-1afad74679ac</sv:value>
+      </sv:property>
+      <sv:property sv:name="headline" sv:type="String">
+        <sv:value>We’re all about personalized experiences.</sv:value>
+      </sv:property>
+      <sv:property sv:name="headlineLevel" sv:type="String">
+        <sv:value>medium</sv:value>
+      </sv:property>
+      <sv:property sv:name="headline_de" sv:type="String">
+        <sv:value>Bei uns dreht sich alles um individuelle Erfahrungen.</sv:value>
+      </sv:property>
+      <sv:property sv:name="imagePosition" sv:type="String">
+        <sv:value>below</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>travel-demo:components/textImage</sv:value>
+      </sv:property>
+      <sv:property sv:name="text" sv:type="String">
+        <sv:value>&lt;p&gt;That&amp;rsquo;s why we want to get to know you before we give you advice. We change our tours on-the-fly to match people&amp;rsquo;s unique nature and interests. And don&amp;rsquo;t worry if you can&amp;rsquo;t find a tour that suits you on our website. We&amp;rsquo;re ready to do the research for you to craft a personalized tour exactly where and when you like. That&amp;rsquo;s what we&amp;rsquo;re all about. So give us a call!&lt;/p&gt; </sv:value>
+      </sv:property>
+      <sv:property sv:name="text_de" sv:type="String">
+        <sv:value>&lt;p&gt;Deswegen m&amp;ouml;chten wir Sie kennenlernen, bevor wird Sie beraten. Wir &amp;auml;ndern unsere Reisen im Handumdrehen, um diese an die Pers&amp;ouml;nlichkeit und Interessen unserer Kunden und Kundinnen anzupassen. Und seien Sie unbesorgt, falls Ihnen keine der auf der Webseite angebotenen Reisen zusagt. Wir recherchieren gerne f&amp;uuml;r Sie, um Ihnen exakt die Tour anzubieten, die Sie sich vorstellen, denn genau darum geht es bei uns. Also rufen Sie uns einfach an!&lt;/p&gt; </sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="02">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>d860b372-fc69-4b0d-ba5d-a5e5bd3f93ac</sv:value>
+      </sv:property>
+      <sv:property sv:name="headline" sv:type="String">
+        <sv:value>We work with our community. </sv:value>
+      </sv:property>
+      <sv:property sv:name="headlineLevel" sv:type="String">
+        <sv:value>medium</sv:value>
+      </sv:property>
+      <sv:property sv:name="headline_de" sv:type="String">
+        <sv:value>Wir arbeiten mit unserer Community.</sv:value>
+      </sv:property>
+      <sv:property sv:name="imagePosition" sv:type="String">
+        <sv:value>below</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>travel-demo:components/textImage</sv:value>
+      </sv:property>
+      <sv:property sv:name="text" sv:type="String">
+        <sv:value>&lt;p&gt;Part of our mission is to give back to the areas that we visit. We do this by working with the local tour guides, sharing tips and soliciting suggestions. We conduct a yearly &amp;lsquo;check-in&amp;rsquo; in the more sensitive travel communities to ensure our impact is positive, and adjust our tours when necessary. We always arrange accommodation in socially &amp;amp; environmentally friendly hotels and guesthouses. Because we don&amp;rsquo;t believe that our &amp;lsquo;experience of a lifetime&amp;rsquo; should harm places of beauty.&lt;/p&gt; </sv:value>
+      </sv:property>
+      <sv:property sv:name="text_de" sv:type="String">
+        <sv:value>&lt;p&gt;Ein Teil unseres Leitbilds besteht darin, den Regionen etwas zur&amp;uuml;ckzugeben, in die unsere Reisen f&amp;uuml;hren. Das erreichen wir mit ortsans&amp;auml;ssigen Reisef&amp;uuml;hrern und Reisef&amp;uuml;hrerinnen, Gedankenaustausch und Einbeziehen von Vorschl&amp;auml;gen. Wir f&amp;uuml;hren j&amp;auml;hrliche &amp;Uuml;berpr&amp;uuml;fungen durch, anhand derer wir herausfinden, ob wir ausschlie&amp;szlig;lich positiven Einfluss aus&amp;uuml;ben und passen unsere Reisen wenn n&amp;ouml;tig an. Wir bieten grunds&amp;auml;tzlich nur Unterkunftsm&amp;ouml;glichkeiten in umweltfreundlichen Hotels und Pensionen an, in denen auch Wert auf die soziale Komponente gelegt wird. Weil wir davon &amp;uuml;berzeugt sind, dass unsere &amp;bdquo;einmaligen Erfahrungen&amp;ldquo; wundersch&amp;ouml;nen Orten nicht schaden sollten.&lt;/p&gt; </sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="footer">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>204c6576-c57a-4690-9124-410ec9a384ff</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+      <sv:value>false</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+      <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="footer1">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:area</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>df5d8f10-5150-47c4-907f-17f6a7a3b08d</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="footer2">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:area</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>c3f5a5cb-8d7f-48b0-a03d-a1cebc1da9b0</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="footer3">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:area</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>eb705b8e-8f7d-4b95-b888-36380e039a9f</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="footer4">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:area</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>93702c19-7eb0-46de-bdba-020818bdaddd</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="lastLinks">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:area</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>0b0d63b6-2497-48b7-b87e-90d0e5fc049c</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+        <sv:value>false</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.557+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2019-02-24T07:18:58.556+01:00</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>
+
